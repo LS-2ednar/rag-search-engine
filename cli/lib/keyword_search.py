@@ -1,5 +1,6 @@
 from .search_utils import DEFAULT_SEARCH_LIMIT, load_movies, load_stopwords, text_preprocessing
 from nltk.stem import PorterStemmer
+from .invertedindex import InvertedIndex
 
 def search_command(query: str, limit: int = DEFAULT_SEARCH_LIMIT) -> list[dict]:
     movies = load_movies()
