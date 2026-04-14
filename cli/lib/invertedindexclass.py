@@ -33,3 +33,6 @@ class InvertedIndex:
 
         with open("cache/docmap.pkl", "wb") as f:
             pickle.dump(self.docmap, f)
+
+    def functionality(self):
+        print("This is some crazy function that does more then one thing.")
