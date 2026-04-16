@@ -40,3 +40,5 @@ class InvertedIndex:
     def functionality_two(self):
         print("This is some even crazier function that does more then one thing.")
         print("told u so")
+    def functionality_seven(self):
+        print("Bammm!!!")
