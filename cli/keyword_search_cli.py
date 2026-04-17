@@ -2,6 +2,7 @@ import argparse
 from lib.keyword_search import search_command
 
 def main() -> None:
+    print("Runnging Search")
     parser = argparse.ArgumentParser(description="Keyword Search CLI")
     subparsers = parser.add_subparsers(dest="command", help="Available commands")
 
