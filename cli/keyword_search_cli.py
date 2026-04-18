@@ -2,7 +2,7 @@ import argparse
 from lib.keyword_search import search_command
 
 def main() -> None:
-    print("Runnging Search")
+    print("Preping for search")
     parser = argparse.ArgumentParser(description="Keyword Search CLI")
     subparsers = parser.add_subparsers(dest="command", help="Available commands")
 
@@ -10,7 +10,7 @@ def main() -> None:
     search_parser.add_argument("query", type=str, help="Search query")
 
     args = parser.parse_args()
-    
+    print("Ready to search")
     match args.command:
         case "search":
             
