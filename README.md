@@ -12,4 +12,6 @@ If some update is made to the readme then this is due to keep my boot.dev flame 
 
 The used Data for this project consited of 6 different CSV files, and a complex relationship between these datasources was build from the ground up.
 
-Did we add any information previously here? 
+Did we add any information previously here?
+
+When there is new stuff done then this will work even better 
