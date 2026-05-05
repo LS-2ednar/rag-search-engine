@@ -14,4 +14,6 @@ The used Data for this project consited of 6 different CSV files, and a complex 
 
 Did we add any information previously here?
 
-When there is new stuff done then this will work even better 
+When there is new stuff done then this will work even better.
+
+Did I mention that there is more to add here? It is crazy to think that this would actually keep the streak going but I currently have to do this anyways. 
