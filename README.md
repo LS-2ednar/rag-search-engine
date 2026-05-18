@@ -16,4 +16,6 @@ Did we add any information previously here?
 
 When there is new stuff done then this will work even better.
 
-Did I mention that there is more to add here? It is crazy to think that this would actually keep the streak going but I currently have to do this anyways. 
+Did I mention that there is more to add here? It is crazy to think that this would actually keep the streak going but I currently have to do this anyways.
+
+Here we will add more functionalities to ensure that even when i am gone and work on some other projekt, i will be able to have this maintaned somehow. . 
